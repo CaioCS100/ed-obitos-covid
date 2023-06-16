@@ -9,8 +9,8 @@ Projeto com o objetivo de fazer uma leitura dos dados de óbitos da covid de Ala
 <ul> 
   <li> Ter o docker instalado na sua máquina. </li>
 </ul>
-<br/>
 
 <h3>Passo a Passo:</h3>
-<p>1 - Clonar o projeto em uma pasta.<p>
-2 - 
+<p>1 - Clonar o projeto em uma pasta chamada airflow.</p>
+<p>2 - Abrir o terminal na pasta onde se encontra o projeto e digitar o seguinte comando: <ins>docker-compose up airflow-init</ins></p>
+<p>3 - Após isso rodar o comando <ins>docker-compose up</ins></p>
